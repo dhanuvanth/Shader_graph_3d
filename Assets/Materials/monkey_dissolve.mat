@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: monkey_dissolve
+  m_Shader: {fileID: -6465566751694194690, guid: 9eb641b624e9b8d4682d570118bf037c,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_6CD43F23: 0.01
+    - Vector1_8791DE91: 50
+    m_Colors:
+    - Color_6D516551: {r: 0.3962264, g: 0.3962264, b: 0.3962264, a: 0}
+    - Color_F8DA503: {r: 0, g: 0.9724539, b: 1, a: 1}
